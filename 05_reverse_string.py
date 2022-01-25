@@ -8,3 +8,4 @@ def reverse_string(phrase):
         'ecuas'
     """
     
+    return phrase[::-1]
